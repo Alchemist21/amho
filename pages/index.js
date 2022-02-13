@@ -11,7 +11,7 @@ export default function Home() {
         <title>AMHO Marketplace</title>
         <meta name='keywords' content='web 3 marketplace, marketplace, nfts' />
       </Head>
-   
+    
       <h1>Homepage</h1>
    
     </div>
